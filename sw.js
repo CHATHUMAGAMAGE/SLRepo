@@ -5,8 +5,8 @@ const urlsToCache = [
   "./index.html",  // your entry page
   "./styles/styles.css",  // add your CSS
   "./scripts/script.js",   // add your JS
-  ".favicons/icons/icon-192.png",
-  ".favicons/icons/icon-512.png",
+  "./favicons/icons/icon-192.png",
+  "./favicons/icons/icon-512.png",
    "./favicons/manifest.json" // manifest
 ];
 
